@@ -1,0 +1,168 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Maybank Academy Indonesia Virtual Learn Fest 2021
+
+### Title
+tour.name = Maybank Virtual Learn Fest
+
+## Skin
+
+### Button
+Button_80C90DEB_B669_50F0_41E1_098F30F62D4D.label = Type Class
+Button_80C90DEB_B669_50F0_41E1_098F30F62D4D.pressedLabel = Location
+Button_80C9CDEA_B669_50F0_41E3_2A3C33E8B71E.label = Information
+Button_80CC1DED_B669_50F0_41D5_391995AE5E51.label = Photoalbum
+Button_80CCEDEC_B669_50F0_41D9_F4ADC39849FF.label = Helpdesk chat
+Button_80CFBDEE_B669_50F0_41E1_D210C21B1364.label = Contact Information
+Button_80D7FDE9_B669_50F0_41E4_CD02041BEFC1.label = Sunken | Uluwatu
+Button_91A089D6_B6F8_F0D0_41D4_27E5F5D3095C.label = Photoalbum
+Button_91A389D5_B6F8_F0D0_41E4_904CA12E2491.label = Helpdesk chat
+Button_91A569D3_B6F8_F0D0_41D8_76C5B662E943.label = Type Class
+Button_91A569D3_B6F8_F0D0_41D8_76C5B662E943.pressedLabel = Location
+Button_91A5C9D2_B6F8_F0D0_41B8_8EBBB166E20E.label = Information
+Button_91A629D7_B6F8_F0D0_41D1_543A7DC4B9DD.label = Contact Information
+Button_91BA19D1_B6F8_F0D0_41C5_3162286808DA.label = Borobudur Room
+Button_9BD2FCC8_B312_520F_41CB_243DE965C6C5.label = MyCampus Apps
+Button_9BD62CC9_B312_5201_417E_984A412DE20E.label = Panduan
+Button_9BD62CC9_B312_5201_417E_984A412DE20E.pressedLabel = Location
+Button_9BD7BCCF_B312_5201_41E4_F645014736AC.label = Helpdesk chat
+Button_9BD7DCD0_B312_521F_41E1_83B3B7306985.label = Contact Information
+Button_9BD7FCD0_B312_521F_41D2_73EAC2A0297D.label = Photoalbum
+Button_9BDD7CC7_B312_5201_41E3_7E1F1B284D34.label = MyHR2u Login
+Button_AC92133E_BB3E_B98D_415A_6BE9F7236E83.label = GO TO ACADEMY
+Button_F84F6C53_CBCD_C806_41E4_D5CE60B867D2.label = LANJUTKAN VIRTUAL TOUR
+Button_FEF2BCDB_CBC3_C807_41CE_3F4B2A9DB1A7.label = KE VIRTUAL LEARNING FESTIVAL
+
+### Dropdown
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = ROOMS
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = AMENITIES
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3100000000000012vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000012vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000012vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_80CFDDF1_B669_50D0_41E0_390E9B48EAD6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_8D36EB5A_B31E_7603_41AC_0B6CEBB7CF3C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.28vmin;"><B>Studio</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.497267759562838vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.5vmin;"><B><I>DIGITAL</I></B></SPAN></SPAN></DIV></div>
+HTMLText_8D39A8D7_B312_3202_41D4_8CAEF89A304C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.950819672131147vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.95vmin;"><B>Ruang</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.28vmin;"><B><I>PERPUSTAKAAN</I></B></SPAN></SPAN></DIV></div>
+HTMLText_8D570713_B312_5E02_41D3_1B8C24DF3E22.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.950819672131147vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.95vmin;"><B>Ruangan</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.28vmin;"><B><I>BOROBUDUR</I></B></SPAN></SPAN></DIV></div>
+HTMLText_91A269DA_B6F8_F0D0_4195_A5855449294F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_9BD4ECD6_B312_5203_41E1_04C4F7229989.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_A66F10A2_B782_E9E0_41D7_B1D92952D576.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.28vmin;"><B>Maybank Learning Academy</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Sejalan dengan salah satu EVP Maybank Indonesia ‘GO Ahead Grow’ dan semangat continuous learning, kami membuat Structured Learning Program yang mengkombinasikan berbagai macam metode belajar dan menyasar kompetensi-kompetensi dasar seperti teknikal, kepemimpinan, dan future-ready, untuk semua level di Bank.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Structured Learning Program ini didukung oleh in-house digital Learning Platform kami, ‘MyCampus’, untuk mempermudah seluruh Maybankers untuk mengakses materi pembelajaran mereka dengan lebih mandiri dan efisien.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Kami juga mempunyai Learning Centre, ‘Maybank Learning Academy,’ yang berlokasi di Wisma Kodel, Jakarta, dan juga di kota-kota lain yaitu di Surabaya dan Medan. Learning Centre yang didukung oleh teknologi cutting-edge Learning Management System, prinsip ‘Go Green’, dan tampilan yang menarik dan ‘refreshing’, </SPAN></SPAN></DIV></div>
+HTMLText_AC92333E_BB3E_B98D_41DF_4209A93EE71C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.700000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Arial CE';"><B>MAYBANK ACADEMY</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7322404371584694vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:2.73vh;font-family:'Antonio';">_________________</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7322404371584694vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.73vh;font-family:'Arial CE';"><B>WISMA KODEL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.98vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7322404371584694vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.73vh;font-family:'Arial CE';">Jl. H. R. Rasuna Said, RT.10/RW.7, Kuningan, Setia Budi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920</SPAN></SPAN></DIV></div>
+HTMLText_C7BBC034_B3DC_5113_41E2_B58973E68A1C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.28vmin;"><B>Ruang Borobudur</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Borobudur adalah Sebuah Candi Buddha yang erletak di Borobudur Magelang, Jawa Tengah, Indonesia, Candi ini berlokasi di kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Candi ini didirikan oleh para penganut agama Buddha Mahayana sekitar abad ke-8 masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi Buddha terbesar di dunia, sekaligus salahs atu monumen Buddha terbesar di dunia.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Berdasarkan prasasti Karangtengah dan Tri Tepusan, diperkirakan pendiri Borobudur adalah raja dari Kerajaan Mataram bernama Samaratungga, Sekitar tahun 824 M.</SPAN></SPAN></DIV></div>
+HTMLText_D52AEE12_B25C_F117_41A7_BBDC9F266693.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.28vmin;"><B>Ruang Uluwatu / Sunken</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Pura uluwatu berdiri kokoh di batu karang yang menjorok ke tengah lautan dengan ketinggian kurang lebih 97 meter, yang membuat pemandangan di pura ini menjadi sangat indah.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Tidak diketahui secara jelas kapan pura uluwatu dibangun oleh Mpu Kuturan atau Mpu Rajakerja pada masa pemerintahan suami-istri Sri Masula-Masuli pada sekitar abad XI.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.530054644808743vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;font-family:Tahoma, Geneva, sans-serif;">Ada fakta menarik dari peninggalan historis di pura Luhur Uluwatu yang berupa candi kurung atau kori gelung agung, yang menjulan megah membatasi areal jaba tengah dengan jeroan pura.</SPAN></SPAN></DIV></div>
+HTMLText_F114B55D_B312_3201_41D2_FDC49915F355.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.950819672131147vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.95vmin;"><B>Studio</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.28vmin;"><B><I>PODCAST</I></B></SPAN></SPAN></DIV></div>
+HTMLText_F2601650_B31F_DE1F_41CD_662DA1C1308F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.28vmin;"><B>Ruangan</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.497267759562838vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.5vmin;"><B><I>MINI BANKING</I></B></SPAN></SPAN></DIV></div>
+HTMLText_F389234C_B31E_5607_41E4_8804ADB9A750.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:3.060109289617486vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vmin;"><B>Ruangan</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.169398907103825vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.17vmin;"><B><I>KOMPUTER</I></B></SPAN></SPAN></DIV></div>
+HTMLText_F3D19839_B313_D201_41E3_02D591AABEB6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.950819672131147vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.95vmin;"><B>Ruangan</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#fab033;font-size:3.28vmin;"><B><I>SUNKEN / ULUWATU</I></B></SPAN></SPAN></DIV></div>
+HTMLText_F98C1F1E_CBC4_C801_41C1_6427E6CBE354.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.7322404371584694vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.73vmin;"><B>SELAMAT DATANG DI MAYBANK </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.7322404371584694vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.73vmin;"><B>VIRTUAL LEARNING FESTIVAL 2021</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.7486338797814212vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vmin;">(Pilih salah satu tombol dibawah ini)</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = Virtual Tour Maybank Academy
+Label_8D7751A2_B2A4_B337_41C8_346DEA8826AD.text = VIRTUAL LEARN FEST
+Label_A6356FD0_B782_57BF_41C9_76063BA8EF80.text = TENTANG KAMI
+Label_E15CD699_B311_DE01_41B0_E2DB8A13D399.text = LOCATION
+Label_F2D87ECB_B2DC_D174_418B_8FA4DE8DE8BE.text = SITE FLOOR
+Label_F2DA632C_B2DC_D70C_41E4_D8480C10CB0B.text = OFFICIAL WEBSITE
+
+## Media
+
+### Title
+album_EB521CDB_B2A3_F115_4198_0784EC51D267.label = Foto Training Online
+album_EB521CDB_B2A3_F115_4198_0784EC51D267_0.label = General Introduction 2021
+album_EB521CDB_B2A3_F115_4198_0784EC51D267_1.label = Ngabuburit Maybank
+album_EB521CDB_B2A3_F115_4198_0784EC51D267_2.label = Online Training
+album_EB521CDB_B2A3_F115_4198_0784EC51D267_3.label = Sport Activities
+album_EB521CDB_B2A3_F115_4198_0784EC51D267_4.label = Sport Activities 1
+map_AD80FC3C_B782_D8E7_41D7_C4CEFFCD3617.label = floor plan maybank
+panorama_A8723132_A763_1AD7_41CC_3FCF22893BE0.label = maybank (36 edit)
+panorama_AAB0031D_A767_1ECD_41DF_A9ADC71A7EE5.label = maybank (33)
+panorama_AAB00DD1_A767_2555_41B9_200C3C2BCBD9.label = Resepsionis
+panorama_AAB0121F_A767_FECE_41E4_055A768E9B3A.label = Ruang Komputer
+panorama_AAB01659_A766_E752_41E3_4767687D3E68.label = maybank (38)
+panorama_AAB017A8_A767_25F2_41D1_0C4796B2E42E.label = Studio Digital 2
+panorama_AAB01974_A767_2D53_4189_AD2F600F7262.label = maybank (20)
+panorama_AAB01B29_A765_2EF2_41DE_12FB90148DCC.label = maybank (40)
+panorama_AAB01D6D_A767_2572_41E1_09663E4D6533.label = maybank (22)
+panorama_AAB023C1_A767_7DB2_41C7_BAE8BDA8412D.label = Ruang Borobudur
+panorama_AAB027F8_A767_E553_41DD_774513F937D1.label = maybank (24)
+panorama_AAB02995_A767_6DD2_41C1_2FE7F88C49A7.label = maybank (32)
+panorama_AAB02AF4_A767_2F52_41C9_B4E0533CEC51.label = maybank (29)
+panorama_AAB0312C_A765_1AF2_41D1_4C607A05E740.label = Mini Banking
+panorama_AAB03592_A765_25D7_41C8_A516F089ACB0.label = maybank (41)
+panorama_AAB03E4E_A767_674E_41C8_A11187DD80A4.label = maybank (19)
+panorama_AAB04281_A765_3FB5_41D6_862F7E6B9050.label = maybank (2)
+panorama_AAB05633_A766_E6D5_41DB_A9C0439D30BE.label = Perpustakaan
+panorama_AAB05C7C_A767_EB52_4199_FB0176D4F109.label = maybank (26)
+panorama_AAB05E34_A765_26D2_41D1_B51C0C41F65E.label = maybank (8)
+panorama_AAB0627F_A765_1F4E_41C1_9F41317FF10C.label = maybank (10)
+panorama_AAB063A5_A767_3DFD_41DA_0383963E7D4D.label = maybank (21)
+panorama_AAB07007_A767_7ABD_41CB_8B443FAA4ACD.label = maybank (31)
+panorama_AAB07071_A765_1B52_41B5_537BD4DDBBEF.label = Ruangan Sunken
+panorama_AAB08C81_A765_2BB2_41CB_3388E61DC503.label = maybank (3)
+panorama_AAB09679_A765_6752_41D9_FEB98F83D454.label = maybank (4)
+panorama_AAB097F9_A765_2555_418A_4E6D31CCE370.label = maybank (9)
+panorama_AAB09CAD_A766_EBF2_41B4_7F159B9EFD51.label = maybank (11)
+panorama_AAB0B0BC_A765_7BD3_41D3_C3C7A16C6F61.label = maybank (5)
+panorama_AAB0D583_A767_65B6_41C3_8D095A51D11F.label = maybank (30)
+panorama_AAB0D63A_A767_26D7_41BA_CB14F33EC5F6.label = maybank (27)
+panorama_AAB0E0D6_A767_3B5F_41E0_F7D7879E0B27.label = maybank (28)
+panorama_AAB0F44F_A765_1B4E_41E2_E128F5C6910D.label = maybank (7)
+panorama_AAB0FA7A_A765_6F56_41B7_C03E8B24792A.label = maybank (6)
+panorama_AAB1704C_A767_1AB2_41D2_330B139D6890.label = maybank (13)
+panorama_AAB1A475_A767_3B5D_41D4_2E0E9024516E.label = maybank (15)
+panorama_AAB1AA35_A767_2ED2_41D1_8F682406C505.label = maybank (14)
+panorama_AAB1C88D_A767_6BB2_41D1_60F6CD372C21.label = maybank (17)
+panorama_AAB1CE44_A767_26B3_41DC_77C59300BA82.label = maybank (16)
+panorama_AAB3AC36_A766_EADF_41E4_057E97C879D5.label = Studio Podcast
+panorama_C46EC5DF_B3ED_B30D_41E0_AB6652BD2616.label = maybank (36)
+panorama_C58E7432_B3EC_7114_41E1_B6A67FA3C1CE.label = Studio Digital
+panorama_CD541B7B_B3A7_B714_41D9_BCEF0E2C41E6.label = maybank edit tembok
+video_8A1ADF75_AC93_4B49_41D0_894BDE7C0631.label = welcom uy
+video_8C1A659C_AC8C_DFFE_41D9_D62600C95E51.label = welcome resepsionis
+video_947D1851_B25C_5115_41A0_2E66905709D8.label = podcast aminator
+video_A21FBEE8_B1E7_D133_41E3_FA42E905863E.label = embed opening
+video_C186FD41_B3E4_F374_41DD_540FBE0D95F2.label = video animator studio digital
+
+## Action
+
+### PDF
+PopupPDFBehaviour_9902C04E_B3F6_3203_41B7_90346023BFFB.url = files/MyHR2u_FirstGuide_v2021_en.pdf
+
+### URL
+LinkBehaviour_80CCCDEC_B669_50F0_4181_B38C3DF7B4DA.source = https://wa.me/6287750000095?text=Halo%20Helpdesk
+LinkBehaviour_8C365973_B2DD_F314_41E4_6414DB0D7F7A.source = https://www.maybank.co.id/
+LinkBehaviour_91A0C9D5_B6F8_F0D0_41E5_B5629BFD3BE4.source = https://wa.me/6287750000095?text=Halo%20Helpdesk
+LinkBehaviour_9A0D062F_B3F6_7E02_41CC_C0F40EB06021.source = https://myhr2u.maybank.co.id/mycampus/mynet
+LinkBehaviour_9AB9970F_B3F1_DE02_41E5_3236BA46805D.source = https://wa.me/6287750000095?text=Halo%20Helpdesk
+LinkBehaviour_9F786666_B3F2_7E02_41A5_70CACB14F8D7.source = https://myhr2u.maybank.co.id/login/
+LinkBehaviour_A30111BA_BB13_A09A_41D8_4155BEAB4CA6.source = https://goo.gl/maps/uPzinyUQ6NDN2MUs6
+LinkBehaviour_C008C47A_D5B4_B485_41E6_542F423C5B2F.source = https://virtual.digitalindonesia.net/maybanklp/index.html
+LinkBehaviour_C6B87BF0_D5B4_7384_41CF_E07A7A75DF2E.source = https://virtual.digitalindonesia.net/maybanklp/index.html
+LinkBehaviour_DA2E4506_CB45_B80E_41BE_840A1A6E12A2.source = https://virtual.digitalindonesia.net/maybanklp/index.html
+LinkBehaviour_FC1615DD_CBC4_D803_41E8_8BCBCA78D1B2.source = https://maybankelevate.com/login
+PopupWebFrameBehaviour_910175EB_B1AC_5335_41D9_A140E9E6F33F.url = //www.youtube.com/embed/Yz13eG-IIMc?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_91643F15_B264_6F1D_41B2_74B2CBDCCB2C.url = //www.youtube.com/embed/Yz13eG-IIMc?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_917848F6_CB4C_4801_41E6_1F26EF98F303.url = //www.youtube.com/embed/S8OCcR-MRjQ?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_91A08CB6_B264_B11C_41CC_606AA732C104.url = //www.youtube.com/embed/Yz13eG-IIMc?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_92247E25_CB43_C803_41DC_6596596AB5C9.url = //www.youtube.com/embed/zawHtnTzVrs?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_933BED00_CB5C_4802_41C5_D8B5FE42D965.url = //www.youtube.com/embed/4ay-7A7zprM?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_93443324_B1A3_B73C_41A0_3D50E752C5C4.url = //www.youtube.com/embed/Yz13eG-IIMc?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_94D7A827_CB4C_480E_41D2_29C9CBF5F387.url = //www.youtube.com/embed/S8OCcR-MRjQ?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_96C4A9CF_CB44_C81F_41DD_EC411F69FBDF.url = //www.youtube.com/embed/zawHtnTzVrs?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_9C1B6BC9_CB44_C803_41E5_2B08138AF950.url = //www.youtube.com/embed/4n6uqL4Ke5g?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_9D9DD0D7_CB5C_780F_41B5_04E64EB30622.url = //www.youtube.com/embed/4ay-7A7zprM?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_9ECCE5C5_CB44_7803_41E6_3C09783ADCCB.url = //www.youtube.com/embed/Yz13eG-IIMc?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_9EF32CEA_CB4D_C806_41CF_B0E4633C091C.url = //www.youtube.com/embed/4n6uqL4Ke5g?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_9F0D9F52_CB4C_C801_41D7_A10C93FA7C86.url = //www.youtube.com/embed/4n6uqL4Ke5g?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_A431263A_B1E4_5114_41D4_4E370727656E.url = //www.youtube.com/embed/PWCFjItbGyU?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_A8CAC552_B1FC_5317_41CF_14853941F680.url = //www.youtube.com/embed/i6e2kJHwfaM?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_AB1C8146_B1FD_F37F_41AC_21A3CBFFB56F.url = //www.youtube.com/embed/i6e2kJHwfaM?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_AB2AA94E_B1E5_B30C_41BA_7BBF7093EF22.url = //www.youtube.com/embed/F8oPdb7KlwE?rel=0;&autoplay=1&loop
+PopupWebFrameBehaviour_ADEE7252_B1E4_D114_41DB_FB181EE99357.url = //www.youtube.com/embed/F8oPdb7KlwE?rel=0;&autoplay=1&loop
